@@ -1,6 +1,9 @@
 version="0.1"
 tags={
 	"Alternative History"
+	"Map"
+	"Technologies"
+	"Ideologies"
 }
-name="PDA"
-supported_version="1.17.3.0"
+name="Pax Dei Aeterna"
+supported_version="1.16.9"
